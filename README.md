@@ -1,6 +1,7 @@
 # InventoryApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
+This project is a small Angular 4 app for products inventory
+![image](https://cloud.githubusercontent.com/assets/1610809/25793208/7b30d438-33cb-11e7-9665-311bb873f3b2.png)
 
 ## Development server
 
